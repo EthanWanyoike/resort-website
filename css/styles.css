@@ -1,0 +1,16 @@
+body {
+  color: brown;
+  background-color: lightgray;
+  font-style: normal;
+  font-family: serif;
+  align-items: center;
+}
+h1 {
+  color: blue;
+}
+h2,p {
+  color: green;
+}
+h3 {
+  color: purple;
+}
