@@ -1,6 +1,6 @@
 body {
   font-family: sans-serif;
-  width: 80%;
+  /*width: 80%;*/
   margin-left: 10%; margin-right: 10%;
 }
 h1 {
@@ -24,15 +24,11 @@ img {
     background-color: lightgray;
   }
   .column {
-    float: left;
+    /*float: left;*/
     padding: 6px;
     margin: 20px;
   }
-  .column img {
-    float: left;
-  }
-  .column p {
-    margin: 20px;
-    padding: 6px;
+  /*.column img {
+    float: left;*/
   }
 }
